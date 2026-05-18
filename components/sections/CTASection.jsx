@@ -44,7 +44,7 @@ export default function CTASection() {
             </h2>
 
             <p className="text-white/80 text-lg max-w-2xl mx-auto mb-10 text-pretty">
-              Junte-se a milhares de profissionais de saúde que já estão 
+              Junte-se a profissionais de saúde que já estão 
               revolucionando a adesão medicamentosa com o MediTrack.
             </p>
 
@@ -65,7 +65,7 @@ export default function CTASection() {
             <div className="mt-10 flex flex-wrap justify-center items-center gap-6 text-white/60 text-sm">
               <div className="flex items-center gap-2">
                 <div className="w-2 h-2 rounded-full bg-green-400" />
-                Teste grátis por 14 dias
+                Entre em contato e faça seu teste
               </div>
               <div className="flex items-center gap-2">
                 <div className="w-2 h-2 rounded-full bg-green-400" />

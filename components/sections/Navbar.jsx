@@ -104,9 +104,6 @@ export default function Navbar() {
                 </a>
               ))}
               <div className="pt-4 space-y-2 border-t border-[#E5E7EB]">
-                <Button variant="outline" className="w-full border-[#00897B] text-[#00897B]">
-                  Entrar
-                </Button>
                 <Button className="w-full bg-[#00897B] hover:bg-[#00796B] text-white" asChild>
                   <a href="#contato">Entre em Contato</a>
                 </Button>
