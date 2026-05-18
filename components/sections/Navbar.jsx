@@ -61,9 +61,8 @@ export default function Navbar() {
 
           {/* Desktop CTA Buttons */}
           <div className="hidden lg:flex items-center gap-4">
-            <Button variant="ghost" className="text-[#003B46] hover:text-[#00897B]">
-              Entrar
-            </Button>
+       
+    
             <Button className="bg-[#00897B] hover:bg-[#00796B] text-white" asChild>
               <a href="#contato">Entre em Contato</a>
             </Button>

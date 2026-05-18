@@ -53,17 +53,17 @@ export default function Footer() {
               Transformando a adesão medicamentosa com tecnologia inteligente.
             </p>
             <div className="space-y-3">
-              <a href="mailto:contato@meditrack.com.br" className="flex items-center gap-3 text-white/60 hover:text-[#4DB6AC] transition-colors">
+              <a href="mailto:meditrack087@gmail.com" className="flex items-center gap-3 text-white/60 hover:text-[#4DB6AC] transition-colors">
                 <Mail className="w-5 h-5" />
-                contato@meditrack.com.br
+                meditrack087@gmail.com
               </a>
-              <a href="tel:+551199999999" className="flex items-center gap-3 text-white/60 hover:text-[#4DB6AC] transition-colors">
+              <a href="tel:+5562999356087" className="flex items-center gap-3 text-white/60 hover:text-[#4DB6AC] transition-colors">
                 <Phone className="w-5 h-5" />
-                +55 (11) 9999-9999
+                +55 (62) 99935-6087
               </a>
               <div className="flex items-start gap-3 text-white/60">
                 <MapPin className="w-5 h-5 flex-shrink-0 mt-0.5" />
-                <span>São Paulo, SP - Brasil</span>
+                <span>Anápolis, GO - Brasil</span>
               </div>
             </div>
           </div>

@@ -8,7 +8,7 @@ const testimonials = [
   {
     name: 'Dra. Mariana Costa',
     role: 'Cardiologista',
-    location: 'São Paulo, SP',
+    location: 'Anápolis, GO',
     image: 'MC',
     rating: 5,
     text: 'O MediTrack revolucionou a forma como acompanho meus pacientes. A taxa de adesão aumentou significativamente e consigo intervir mais rapidamente quando necessário.',
@@ -16,7 +16,7 @@ const testimonials = [
   {
     name: 'Roberto Almeida',
     role: 'Paciente',
-    location: 'Rio de Janeiro, RJ',
+    location: 'Anápolis, GO',
     image: 'RA',
     rating: 5,
     text: 'Finalmente uma solução que me ajuda a lembrar de todos os medicamentos. Os lembretes são precisos e o app é muito fácil de usar. Minha saúde melhorou muito!',
@@ -24,7 +24,7 @@ const testimonials = [
   {
     name: 'Fernanda Santos',
     role: 'Cuidadora',
-    location: 'Belo Horizonte, MG',
+    location: 'Anápolis, GO',
     image: 'FS',
     rating: 5,
     text: 'Como cuidadora da minha mãe, o MediTrack me dá tranquilidade. Mesmo à distância, consigo acompanhar se ela está tomando os medicamentos corretamente.',
