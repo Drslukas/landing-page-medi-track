@@ -31,7 +31,7 @@ const footerLinks = {
 
 const socialLinks = [
   { icon: Facebook, href: '#', label: 'Facebook' },
-  { icon: Instagram, href: '#', label: 'Instagram' },
+  { icon: Instagram, href: 'https://www.instagram.com/meditrackapp', label: 'Instagram' },
   { icon: Linkedin, href: '#', label: 'LinkedIn' },
   { icon: Twitter, href: '#', label: 'Twitter' },
 ]
@@ -133,6 +133,8 @@ export default function Footer() {
                 key={social.label}
                 href={social.href}
                 aria-label={social.label}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-[#00897B] transition-colors"
               >
                 <social.icon className="w-5 h-5 text-white" />
