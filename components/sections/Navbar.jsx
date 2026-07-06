@@ -64,7 +64,7 @@ export default function Navbar() {
        
     
             <Button className="bg-[#00897B] hover:bg-[#00796B] text-white" asChild>
-              <a href="#contato">Entre em Contato</a>
+              <a href="#contato">Entre na Plataforma</a>
             </Button>
           </div>
 

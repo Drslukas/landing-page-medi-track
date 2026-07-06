@@ -72,7 +72,7 @@ export default function HeroSection() {
                 asChild
               >
                 <a href="#contato">
-                  Entre em Contato
+                  Entre na Plataforma
                   <ArrowRight className="ml-2 w-5 h-5" />
                 </a>
               </Button>
